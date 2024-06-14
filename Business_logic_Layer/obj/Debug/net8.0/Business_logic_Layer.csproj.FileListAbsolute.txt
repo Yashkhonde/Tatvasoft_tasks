@@ -1,0 +1,15 @@
+E:\tt\CIProject_WebAPI-main\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.deps.json
+E:\tt\CIProject_WebAPI-main\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.dll
+E:\tt\CIProject_WebAPI-main\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.pdb
+E:\tt\CIProject_WebAPI-main\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+E:\tt\CIProject_WebAPI-main\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+E:\tt\CIProject_WebAPI-main\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.AssemblyReference.cache
+E:\tt\CIProject_WebAPI-main\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\tt\CIProject_WebAPI-main\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfoInputs.cache
+E:\tt\CIProject_WebAPI-main\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfo.cs
+E:\tt\CIProject_WebAPI-main\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.CoreCompileInputs.cache
+E:\tt\CIProject_WebAPI-main\Business_logic_Layer\obj\Debug\net8.0\Business.B10BAD81.Up2Date
+E:\tt\CIProject_WebAPI-main\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.dll
+E:\tt\CIProject_WebAPI-main\Business_logic_Layer\obj\Debug\net8.0\refint\Business_logic_Layer.dll
+E:\tt\CIProject_WebAPI-main\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.pdb
+E:\tt\CIProject_WebAPI-main\Business_logic_Layer\obj\Debug\net8.0\ref\Business_logic_Layer.dll

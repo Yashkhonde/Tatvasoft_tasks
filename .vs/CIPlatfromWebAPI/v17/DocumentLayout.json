@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\tt\\CIProject_WebAPI-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|e:\\tt\\ciproject_webapi-main\\ciplatfromwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|e:\\tt\\ciproject_webapi-main\\data_access_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|e:\\tt\\ciproject_webapi-main\\data_access_layer\\dalmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dalmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A954461-F318-48A3-8CC8-71593D3B5B6B}|Business_logic_Layer\\Business_logic_Layer.csproj|e:\\tt\\ciproject_webapi-main\\business_logic_layer\\ballogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A954461-F318-48A3-8CC8-71593D3B5B6B}|Business_logic_Layer\\Business_logic_Layer.csproj|solutionrelative:business_logic_layer\\ballogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|e:\\tt\\ciproject_webapi-main\\ciplatfromwebapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|e:\\tt\\ciproject_webapi-main\\data_access_layer\\dalmissionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dalmissionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|e:\\tt\\ciproject_webapi-main\\data_access_layer\\dalcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dalcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|e:\\tt\\ciproject_webapi-main\\ciplatfromwebapi\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|e:\\tt\\ciproject_webapi-main\\data_access_layer\\daladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\daladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A954461-F318-48A3-8CC8-71593D3B5B6B}|Business_logic_Layer\\Business_logic_Layer.csproj|e:\\tt\\ciproject_webapi-main\\business_logic_layer\\balcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A954461-F318-48A3-8CC8-71593D3B5B6B}|Business_logic_Layer\\Business_logic_Layer.csproj|solutionrelative:business_logic_layer\\balcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A954461-F318-48A3-8CC8-71593D3B5B6B}|Business_logic_Layer\\Business_logic_Layer.csproj|e:\\tt\\ciproject_webapi-main\\business_logic_layer\\balmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A954461-F318-48A3-8CC8-71593D3B5B6B}|Business_logic_Layer\\Business_logic_Layer.csproj|solutionrelative:business_logic_layer\\balmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|e:\\tt\\ciproject_webapi-main\\ciplatfromwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|e:\\tt\\ciproject_webapi-main\\ciplatfromwebapi\\web_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\web_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DALAdminUser.cs",
+              "DocumentMoniker": "E:\\tt\\CIProject_WebAPI-main\\Data_Access_Layer\\DALAdminUser.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DALAdminUser.cs",
+              "ToolTip": "E:\\tt\\CIProject_WebAPI-main\\Data_Access_Layer\\DALAdminUser.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DALAdminUser.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:35:33.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DALCommon.cs",
+              "DocumentMoniker": "E:\\tt\\CIProject_WebAPI-main\\Data_Access_Layer\\DALCommon.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DALCommon.cs",
+              "ToolTip": "E:\\tt\\CIProject_WebAPI-main\\Data_Access_Layer\\DALCommon.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DALCommon.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAIwFoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:01:05.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommonController.cs",
+              "DocumentMoniker": "E:\\tt\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\Controllers\\CommonController.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Controllers\\CommonController.cs",
+              "ToolTip": "E:\\tt\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\Controllers\\CommonController.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Controllers\\CommonController.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAIwCAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:58:52.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\tt\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\tt\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAkwIEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:11:10.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BALMission.cs",
+              "DocumentMoniker": "E:\\tt\\CIProject_WebAPI-main\\Business_logic_Layer\\BALMission.cs",
+              "RelativeDocumentMoniker": "Business_logic_Layer\\BALMission.cs",
+              "ToolTip": "E:\\tt\\CIProject_WebAPI-main\\Business_logic_Layer\\BALMission.cs",
+              "RelativeToolTip": "Business_logic_Layer\\BALMission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:05:34.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BALLogin.cs",
+              "DocumentMoniker": "E:\\tt\\CIProject_WebAPI-main\\Business_logic_Layer\\BALLogin.cs",
+              "RelativeDocumentMoniker": "Business_logic_Layer\\BALLogin.cs",
+              "ToolTip": "E:\\tt\\CIProject_WebAPI-main\\Business_logic_Layer\\BALLogin.cs",
+              "RelativeToolTip": "Business_logic_Layer\\BALLogin.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAowFcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:05:28.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DALMission.cs",
+              "DocumentMoniker": "E:\\tt\\CIProject_WebAPI-main\\Data_Access_Layer\\DALMission.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DALMission.cs",
+              "ToolTip": "E:\\tt\\CIProject_WebAPI-main\\Data_Access_Layer\\DALMission.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DALMission.cs",
+              "ViewState": "AQIAAGEBAAAAAAAAAAAmwHIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:51:49.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DALLogin.cs",
+              "DocumentMoniker": "E:\\tt\\CIProject_WebAPI-main\\Data_Access_Layer\\DALLogin.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DALLogin.cs",
+              "ToolTip": "E:\\tt\\CIProject_WebAPI-main\\Data_Access_Layer\\DALLogin.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DALLogin.cs",
+              "ViewState": "AQIAACcBAAAAAAAAAAAowC4BAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:35:19.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\tt\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Program.cs",
+              "ToolTip": "E:\\tt\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\Program.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:43:19.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DALMissionSkill.cs",
+              "DocumentMoniker": "E:\\tt\\CIProject_WebAPI-main\\Data_Access_Layer\\DALMissionSkill.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DALMissionSkill.cs",
+              "ToolTip": "E:\\tt\\CIProject_WebAPI-main\\Data_Access_Layer\\DALMissionSkill.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DALMissionSkill.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:36:09.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BALCommon.cs",
+              "DocumentMoniker": "E:\\tt\\CIProject_WebAPI-main\\Business_logic_Layer\\BALCommon.cs",
+              "RelativeDocumentMoniker": "Business_logic_Layer\\BALCommon.cs",
+              "ToolTip": "E:\\tt\\CIProject_WebAPI-main\\Business_logic_Layer\\BALCommon.cs",
+              "RelativeToolTip": "Business_logic_Layer\\BALCommon.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:00:22.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\tt\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\appsettings.json",
+              "ToolTip": "E:\\tt\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\appsettings.json",
+              "RelativeToolTip": "CIPlatfromWebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T05:39:40.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web_API.csproj",
+              "DocumentMoniker": "E:\\tt\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\Web_API.csproj",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Web_API.csproj",
+              "ToolTip": "E:\\tt\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\Web_API.csproj",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Web_API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T05:39:16.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
